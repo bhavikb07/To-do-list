@@ -12,6 +12,8 @@ This is just the form to add the works or jobs that the user want to get finishe
 
 ![2018-10-03](https://user-images.githubusercontent.com/43561956/46372742-9e281600-c6a9-11e8-9234-99463509a6ac.png)
 
+![2018-09-30](https://user-images.githubusercontent.com/43561956/46372860-e8a99280-c6a9-11e8-8c39-fa94d053b6e6.png)
+
 ## Functions
 It is a front end project so till now no commit is made to enable any button. On the initial page there is a button which points to a link taking you to different page where you can add your tasks to your list. The site works well to take your input.
 1. All the elements are placed in a block level container.
